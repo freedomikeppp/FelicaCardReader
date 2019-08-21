@@ -1,6 +1,6 @@
 # FelicaCardReader
 
-ACS ACR1252 のカードリーダを使って、FelicaカードのIDを取得するサンプルプログラムです。
+ACS ACR1252 のカードリーダを使って、FelicaカードのIDを取得するC#のサンプルプログラムです。
 
 Windows環境(Windows10)で、標準で利用可能な「WinScard.dll」を使います。
 
