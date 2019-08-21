@@ -10,6 +10,17 @@ Windows環境(Windows10)で、標準で利用可能な「WinScard.dll」を使�
 
 - 接続されているカードリーダの取得、及びカードIDのリード。
 
+# サンプルについて
+
+リーダがPCに接続済み状態で、サンプルプログラムを起動します。
+
+以下のようなシンプルなフォーム画面が表示されるので、
+
+Felicaカードをリーダに翳すと、1秒ごとにカードIDがテキストボックスに表示されます。
+
+![Sample画像](https://github.com/freedomikeppp/FelicaCardReader/blob/master/sample.png)
+
+
 # 参考情報
 
 ## 以下のサイトを参考にしました
